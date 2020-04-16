@@ -6,14 +6,14 @@ public class GuessGame {
 		Scanner scan = new Scanner(System.in);
 		Random random = new Random();
 	    int num = random.nextInt(100);
-		System.out.println(num);
+		//System.out.println(num);
 		while(true){
-			//System.out.println("请输入一个数字（1-100）");
+			System.out.println("请输入一个数字（1-100）");
 			int Guess = scan.nextInt();
 			if(Guess < num){
 				System.out.println("太小了");
 			}else if(Guess > num){
-				System.out.println("太小了");
+				System.out.println("太大了");
 			}else{
 				System.out.println("猜对了");
 				break;
