@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27ce44db-4729-4b1e-840d-66d5b5724a66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1atLeZx7HprS5RMP4tRGa1DNNWS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20200421/src/MyLinkedList.java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ce44db-4729-4b1e-840d-66d5b5724a66" name="Default Changelist" comment="" />
+      <created>1587550039539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587550039539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="114" key="FileChooserDialogImpl" timestamp="1587558634987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587558634987" />
+    <state x="710" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1587561138153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="710" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587561138153" />
+  </component>
+</project>
