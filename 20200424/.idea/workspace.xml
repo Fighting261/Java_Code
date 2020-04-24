@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f894f93-0f38-48ce-8fe5-3125b7755b46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ayOXtYYKZ9zpRXJ1xHKKNYN4EJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20200423/src/TestDemo.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="20200424" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f894f93-0f38-48ce-8fe5-3125b7755b46" name="Default Changelist" comment="" />
+      <created>1587704409579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587704409579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="114" key="FileChooserDialogImpl" timestamp="1587709274760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587709274760" />
+    <state width="1485" height="197" key="GridCell.Tab.0.bottom" timestamp="1587723846801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587723846801" />
+    <state width="1485" height="197" key="GridCell.Tab.0.center" timestamp="1587723846801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587723846801" />
+    <state width="1485" height="197" key="GridCell.Tab.0.left" timestamp="1587723846801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587723846801" />
+    <state width="1485" height="197" key="GridCell.Tab.0.right" timestamp="1587723846801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587723846801" />
+    <state x="172" y="0" key="SettingsEditor" timestamp="1587723523267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="172" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587723523267" />
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1587710417159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1587710417159" />
+  </component>
+</project>
